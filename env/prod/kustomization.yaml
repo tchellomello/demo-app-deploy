@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/tchellomello/demo-app
+  newTag: 2133f8382a0a314e76705550cb3f71c0d21232bf
