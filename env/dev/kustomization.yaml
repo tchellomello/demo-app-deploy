@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/tchellomello/demo-app
-  newTag: 377ca8bf296017b449184674025a6958da0a1448
+  newTag: 2133f8382a0a314e76705550cb3f71c0d21232bf
